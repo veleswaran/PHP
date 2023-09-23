@@ -1,0 +1,26 @@
+[
+    {
+       "id":"9fddc3b3-3a32-4aef-baa3-72d65d4ca854",
+       "title":"The Avengers end game",
+       "genre": "advenger"
+    },
+    {
+        "id":"91a2728e-51a4-42e3-a738-33be20954a2a",
+        "name":"mohan raj",
+        "age":29,
+        "email":"mohan@gamil.gamil"
+    },
+    {
+        "id":"0e4df25b-4f89-4e47-bb33-518e3c3e6c4d",
+        "name":"veleswaran",
+        "age":29,
+        "email":"vel@gamil.gamil"
+    },
+    {
+        "id":"e8e60a9d-99e4-48a1-9bf9-9287b843c148",
+        "name":"viswa",
+        "age":29,
+        "email":"viswa@gamil.gamil"
+    }   
+
+]
